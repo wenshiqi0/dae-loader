@@ -1,0 +1,19 @@
+{
+  "name": "dae-loader",
+  "version": "0.0.1",
+  "description": "collada dae loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "3d",
+    "webgl",
+    "dae"
+  ],
+  "author": "munong",
+  "license": "MIT",
+  "dependencies": {
+    "collada-dae-parser": "^0.11.2"
+  }
+}
